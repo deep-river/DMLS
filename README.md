@@ -1,2 +1,2 @@
-# DMLS
-DMLS - Douban.com movie list scraper. A simple practice of Python - scrapy.
+# DMLS 
+DMLS - Douban.com movie list scraper. A simple practice of Python - scrapy. 
